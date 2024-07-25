@@ -2,9 +2,7 @@
 
 ## Introduction
 
-Everyone starts with HTML but ends with CSS. I'm interested to know how far I can go with this. I recently joined Jovian Full Stack Development Bootcamp in Feb 2023, but unfortuantely due to their overestimates, they decided to stop the bootcamp and refunded everything to us. Although I fully understood their decisions, it still affects people like me expecting to get feet into software engineering. I like them but to be honest they were not really focusing on the quality of courses. 
-
-![Suspension of FS bootcamp 2023](https://i.imgur.com/gsRosPg.png)
+Everyone starts with HTML but ends with CSS. I'm interested to know how far I can go with this. I recently joined a Full Stack Development Bootcamp in Feb 2023, but unfortuantely due to their overestimates, they decided to stop the bootcamp and refunded everything to us. Although I fully understood their decisions, it still affects people like me expecting to get feet into software engineering. 
 
 So I got back to the odin project and follow with the course from Meta on Coursera. 
 
